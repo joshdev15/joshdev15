@@ -1,18 +1,19 @@
-### Hi, I'm Joshua ⚡
+### Hi, I'm Joshua Mora ⚡
 
 __Frontend developer__
 
-I have worked with Vue, Javascript, HTML and CSS
+I have worked with Vue, Javascript, HTML and CSS.
 
 __I’m currently learning__
 
- * React: you can see my "toodo" repository currently under construction
- * Firebase: Excellent platform, will integrate it with my "toodo" project
+ * React: you can see my "toodo" repository currently under construction.
+ * Firebase: Excellent platform, will integrate it with my "toodo" project.
 
 __Other technologies that I like__
 
- * Golang: Learning slowly
- * NoSQL: I like MongoDB and RethinkDB
+ * Golang: Learning slowly.
+ * NoSQL: I like MongoDB and RethinkDB.
+ * GraphQL: Hope to learn soon.
 
 <!--
 **j-mora15/j-mora15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
