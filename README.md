@@ -1,30 +1,31 @@
-### Hi, I'm Joshua Mora ⚡
+<h1 style="color: dodgerblue; text-decoration: none" align="center">
+  Hi, I'm Joshua ⚡
+</h1>
 
-__Frontend developer__
+Web Developer. Enthusiast of continuous learning and constant practice.
 
-I have worked with Vue, Angular, React, Javascript, HTML and CSS.
+<h3 style="color: orange; font-weight: bold" align="left">Frontend developer</h3>
 
-__I’m currently learning__
+I have worked with Vue, Angular, React, Javascript, HTML/CSS, Golang,
+blockchain, and other technologies.
 
- * React: You can see my personal website.
- * Firebase: Excellent platform, trying all the functions I can.
+<h3 style="color: orange; font-weight: bold" align="left">
+  I’m currently learning
+</h3>
 
-__Other technologies that I like__
+- React: You can see my personal website.
+- Firebase: Excellent platform, trying all the functions I can.
 
- * Golang: Learning slowly.
- * NoSQL: I like MongoDB and RethinkDB.
- * GraphQL: Hope to learn soon.
+<h3 style="color: orange; font-weight: bold" align="left">
+  Other technologies that I like
+</h3>
 
-<!--
+- Golang: Learning slowly. As I have worked to a lesser extent in the backend, I
+  do not know all the features of golang
 
-Here are some ideas to get you started:
+- NoSQL: I like MongoDB and RethinkDB.
+- GraphQL: Hope to learn soon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; justify-content: center; padding: 20px">
+  <img src="./assets/jd.svg" width="100">
+</div>
