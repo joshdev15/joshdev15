@@ -1,6 +1,6 @@
-<h1 align="left">
+<h2 align="center">
   Hi!, I'm Joshua ⚡
-</h1>
+</h2>
 
 <div>
   <img src="./assets/icons.svg" width="100%">
