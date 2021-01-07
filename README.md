@@ -1,5 +1,5 @@
-<h1 align="center">
-  Welcome, I'm Joshua ⚡
+<h1 align="left">
+  Hi!, I'm Joshua ⚡
 </h1>
 
 <div>
@@ -15,6 +15,7 @@ technologies.
 **I’m currently learning**
 
 - Next.js: You can see my personal website.
+- Vue: New features in version 3
 - Firebase: Excellent platform, trying all the functions I can.
 
 **Other technologies that I like**
