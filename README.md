@@ -3,7 +3,7 @@
 </h2>
 
 <div>
-  <img src="./assets/icons.svg" width="100%">
+  <img src="./assets/new-icons.svg" width="100%">
 </div>
 
 I'm a Frontend Web Developer. Enthusiast of continuous learning and constant
