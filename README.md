@@ -1,24 +1,22 @@
 <h2 align="center">
-  Hi!, I'm Joshua ⚡
+  Hi!, I'm Joshua Mora ⚡
 </h2>
 
 <div>
-  <img src="./assets/new-icons.svg" width="100%">
+  <img src="./assets/newIcons.svg" width="100%">
 </div>
 
 I'm a Frontend Web Developer. Enthusiast of continuous learning and constant
 practice.
 
-I have worked with Vue, Angular, React, Javascript, HTML/CSS, Golang, and other
-technologies.
+**Web technologies I like**
+
+- React.js: Lately I have been working with react and I find it an incredible
+  technology!.
+- Vue: A very complete technology I also love.
+- Go: Although I am not very proficient in the backend, Go is a spectacular
+  language that I would like to learn more about.
 
 **I’m currently learning**
 
-- Next.js: You can see my personal website.
-- Vue: New features in version 3
 - Firebase: Excellent platform, trying all the functions I can.
-
-**Other technologies that I like**
-
-- NoSQL: I like MongoDB and RethinkDB.
-- GraphQL: Hope to learn soon.
