@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi!, I'm Joshua Mora ⚡
+  I'm Joshua Mora ⚡
 </h2>
 
 <div>
@@ -8,6 +8,11 @@
 
 I'm a Frontend Web Developer. Enthusiast of continuous learning and constant
 practice.
+
+**Explore my websites**
+
+- [JoshDev](https://joshdev.space)
+- [Three](https://three.joshdev.space)
 
 **Web technologies I like**
 
