@@ -9,10 +9,9 @@
 I'm a Frontend Web Developer. Enthusiast of continuous learning and constant
 practice.
 
-**Explore my websites**
+**Explore my website**
 
 - [JoshDev](https://joshdev.space)
-- [Three](https://three.joshdev.space)
 
 **Web technologies I like**
 
