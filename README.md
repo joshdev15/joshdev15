@@ -24,3 +24,6 @@ practice.
 **I’m currently learning**
 
 - Firebase: Excellent platform, trying all the functions I can.
+- AWS: Very interesting
+- Docker: I can now make my containers
+- Kubernetes: Learning to deploy my containers
