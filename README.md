@@ -3,7 +3,7 @@
 </h2>
 
 <div>
-  <img src="./assets/newIcons.svg" width="100%">
+  <img src="./assets/banner.svg" width="100%">
 </div>
 
 I'm a Frontend Web Developer. Enthusiast of continuous learning and constant
@@ -24,3 +24,6 @@ practice.
 **I’m currently learning**
 
 - Firebase: Excellent platform, trying all the functions I can.
+- AWS: Very interesting
+- Docker: I can now make my containers
+- Kubernetes: Learning to deploy my containers
