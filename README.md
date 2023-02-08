@@ -16,15 +16,12 @@ practice.
 
 **Web technologies I like**
 
-- React.js: Lately I have been working with react and I find it an incredible
-  technology!.
-- Vue: A very complete technology I also love.
 - Go: Although I am not very proficient in the backend, Go is a spectacular
   language that I would like to learn more about.
+- React Native: Lately I have been working with react and I find it an incredible
+  technology!.
+- Three: I love to integrate 3D models and animations on the web with React and Three.
 
 **I’m currently learning**
 
-- Firebase: Excellent platform, trying all the functions I can.
-- AWS: Very interesting
-- Docker: I can now make my containers
-- Kubernetes: Learning to deploy my containers
+- Flutter: Interesting.
