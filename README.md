@@ -7,7 +7,7 @@
 </h5>
 
 <div>
-  <img src="./assets/Close.png" width="100%">
+  <img src="./assets/Far.png" width="100%">
 </div>
 
 <h5 align="center" style="margin-bottom: 25px">
