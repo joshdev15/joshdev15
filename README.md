@@ -21,17 +21,17 @@
 <table style="width: 100%">
   <thead>
     <tr style="margin: 0px">
-      <td align="center">
+      <td align="center" style="width: 30%">
         <a href="https://www.linkedin.com/in/j-mora15/" target="_blank">
           <img src="./assets/linkedin.svg" width="25">
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="width: 40%">
         <a href="https://joshdev.space" target="_blank">
           <img src="./assets/prima.svg" width="60">
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="width: 30%; border: 0px">
         <a href="mailto:joshuaalexandermora@gmail.com" target="_blank">
           <img src="./assets/gmail.svg" width="25">
         </a>
