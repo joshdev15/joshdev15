@@ -19,7 +19,7 @@
 </h5>
 
 <div align="center">
-<table style="width: 100%">
+<table style="width: 100%; border: 0px solid transparent">
   <thead>
     <tr style="margin: 0px">
       <td align="center" style="width: 30%; border-radius: 10px 0 0 10px; padding: 0px 20px">
