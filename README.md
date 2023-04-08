@@ -8,17 +8,23 @@
   <span>Developer<span>
 </p>
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; margin-bottom: 15px">
-  <a href="https://www.linkedin.com/in/j-mora15/">
-    <img src="./assets/linkedin.svg" width="25">
-  </a>
-  <a href="https://joshdev.space">
+<a href="https://www.linkedin.com/in/j-mora15/">
+  <figure width="30%">
+    <img src="./assets/linkedin.svg" width="25" style="margin: auto auto;">
+  </figure>
+</a>
+
+<a href="https://joshdev.space" style="width: 30%">
+  <figure width="30%">
     <img src="./assets/PrimaName.svg" width="65">
-  </a>
-  <a href="mailto:joshuaalexandermora@gmail.com">
+  </figure>
+</a>
+
+<a href="mailto:joshuaalexandermora@gmail.com" style="width: 30%">
+  <figure width="30%">
     <img src="./assets/gmail.svg" width="25">
-  </a>
-</div>
+  </figure>
+</a>
 
 <div style="display: flex; justify-content: space-evenly; padding: 10px; align-items: center; margin-bottom: 15px">
   <img src="./assets/react.svg" width="30">
@@ -39,8 +45,6 @@
 <p align="center" style="font-size: 13px; font-weight: bold; padding: 10px">
   Web technologies I like
 </p>
-
-<div style="justify-content: center">
 
 <ul>
   <li style="margin-bottom: 10px">
@@ -72,15 +76,11 @@
   </li>  
 </ul>
 
-</div>
-
 ---
 
 <p align="center" style="font-size: 13px; font-weight: bold; padding: 10px">
   I am currently working
 </p>
-
-<div style="justify-content: center">
 
 <ul>
   <li style="margin-bottom: 10px">
@@ -94,8 +94,6 @@
     <strong>Tigrenator</strong>
   </li>
 </ul>
-
-</div>
 
 ---
 
