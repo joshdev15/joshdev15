@@ -18,6 +18,7 @@
   See my LinkedIn profile, check out my website or send me an email. 
 </h5>
 
+<div align="center">
 <table style="width: 100%">
   <thead>
     <tr style="margin: 0px">
@@ -39,6 +40,7 @@
     </tr>
   </thead>
 </table>
+</div>
 
 ---
 
