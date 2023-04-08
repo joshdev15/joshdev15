@@ -1,38 +1,119 @@
-<h2 align="center" style="font-weight: bold; margin-bottom: 0px; text-decoration: none">
+<p align="center" style="font-weight: bold; margin-bottom: 0px; text-decoration: none; font-size: 25px">
   I'm Joshua
-</h2>
+</p>
 
-<h5 align="center">
-  Front-End Web | React Native | Go Developer.
-</h5>
+<p align="center" style="font-size: 11px; font-weight: bold; font-size: 10px">
+  Frontend | React Native | Golang
+  <br/>
+  <span>Developer<span>
+</p>
 
-<div>
-  <img src="./assets/Far.png" width="100%">
+<div style="display: flex; justify-content: space-evenly; align-items: center; margin-bottom: 15px">
+  <a href="https://www.linkedin.com/in/j-mora15/">
+    <img src="./assets/linkedin.svg" width="25">
+  </a>
+  <a href="https://joshdev.space">
+    <img src="./assets/PrimaName.svg" width="65">
+  </a>
+  <a href="mailto:joshuaalexandermora@gmail.com">
+    <img src="./assets/gmail.svg" width="25">
+  </a>
 </div>
 
-<h5 align="center" style="margin-bottom: 25px">
-  Enthusiast of continuous learning and constant practice.
-</h5>
+<div style="display: flex; justify-content: space-evenly; padding: 10px; align-items: center; margin-bottom: 15px">
+  <img src="./assets/react.svg" width="30">
+  <img src="./assets/next.svg" width="30">
+  <img src="./assets/vue.svg" width="30">
+  <img src="./assets/js.svg" width="30">
+  <img src="./assets/ts.svg" width="30">
+  <img src="./assets/node.svg" width="30">
+  <img src="./assets/go.svg" width="30">
+</div>
 
-**Explore my websites**
+<h6 align="center" style="margin-bottom: 10px">
+  Always improving my skills
+</h6>
 
-- [JoshDev | Space](https://joshdev.space)
-- [JoshDev | Three](https://three.joshdev.space)
+---
 
-**Web technologies I like**
+<p align="center" style="font-size: 13px; font-weight: bold; padding: 10px">
+  Web technologies I like
+</p>
 
-- **Go**: _Although I am not very proficient in the backend, Go is a spectacular
-  language that I would like to learn more about._
-- **React Native**: _Lately I have been working with react and I find it an
-  incredible technology!._
-- **Three.js**: _I love to integrate 3D models and animations on the web with
-  React and Three._
+<div style="justify-content: center">
 
-**I’m currently learning**
+<ul>
+  <li style="margin-bottom: 10px">
+    <strong>Go:</strong>
+    <span>
+      Although I am not very proficient in the backend, Go is a spectacular language that I would like to learn more about.
+    </span>
+  </li>
 
-- **Flutter**: _Interesting._
+  <li style="margin-bottom: 10px">
+    <strong>React Native:</strong>
+    <span>
+      Lately I have been working with react and I find it an incredible technology!
+    </span>
+  </li>
 
-**Contact me**
+  <li style="margin-bottom: 10px">
+    <strong>Next:</strong>
+    <span>
+      For me the best react framework at the moment.
+    </span>
+  </li>
 
-- [Telegram](https://t.me/JoshDev)
-- [GMail](mailto:joshuaalexandermora@gmail.com)
+  <li style="margin-bottom: 10px">
+    <strong>Three.js:</strong>
+    <span>
+      I love to integrate 3D models and animations on the web with React and Three.js.
+    </span>
+  </li>  
+</ul>
+
+</div>
+
+---
+
+<p align="center" style="font-size: 13px; font-weight: bold; padding: 10px">
+  I am currently working
+</p>
+
+<div style="justify-content: center">
+
+<ul>
+  <li style="margin-bottom: 10px">
+    <strong>My website "JoshDev | Space":</strong>
+    <span>
+      I am currently improving my website and integrating new features.
+    </span>
+  </li>
+
+  <li style="margin-bottom: 20px">
+    <strong>Tigrenator</strong>
+  </li>
+</ul>
+
+</div>
+
+---
+
+<p align="center" style="font-size: 13px; font-weight: bold; padding: 10px">
+  I am looking for
+</p>
+
+<div style="justify-content: center">
+
+<ul>
+  <li style="margin-bottom: 10px">
+    <strong>
+      A junior developer opportunity at golang:
+    </strong>
+    <span>
+      Looking to improve in this language, improve my logic and understanding of cloud systems and other technology that can be developed with this spectacular language.
+    </span>
+  </li>
+</ul>
+
+</div>
