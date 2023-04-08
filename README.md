@@ -8,33 +8,7 @@
   <span>Developer<span>
 </p>
 
-<a href="https://www.linkedin.com/in/j-mora15/">
-  <figure width="30%">
-    <img src="./assets/linkedin.svg" width="25" style="margin: auto auto;">
-  </figure>
-</a>
-
-<a href="https://joshdev.space" style="width: 30%">
-  <figure width="30%">
-    <img src="./assets/PrimaName.svg" width="65">
-  </figure>
-</a>
-
-<a href="mailto:joshuaalexandermora@gmail.com" style="width: 30%">
-  <figure width="30%">
-    <img src="./assets/gmail.svg" width="25">
-  </figure>
-</a>
-
-<div style="display: flex; justify-content: space-evenly; padding: 10px; align-items: center; margin-bottom: 15px">
-  <img src="./assets/react.svg" width="30">
-  <img src="./assets/next.svg" width="30">
-  <img src="./assets/vue.svg" width="30">
-  <img src="./assets/js.svg" width="30">
-  <img src="./assets/ts.svg" width="30">
-  <img src="./assets/node.svg" width="30">
-  <img src="./assets/go.svg" width="30">
-</div>
+<img src="./assets/banner.svg" width="100%">
 
 <h6 align="center" style="margin-bottom: 10px">
   Always improving my skills
