@@ -26,34 +26,34 @@
 
 ---
 
-<h5 align="center" style="font-size: 13px; font-weight: bold; padding: 10px">
+<h5 align="center" style="padding: 10px; color: aqua; font-weight: bold">
   Web technologies I like
 </h5>
 
 <ul>
   <li style="margin-bottom: 10px">
-    <strong>Go:</strong>
+    <strong style="color: aqua">Go:</strong>
     <span>
       Although I am not very proficient in the backend, Go is a spectacular language that I would like to learn more about.
     </span>
   </li>
 
   <li style="margin-bottom: 10px">
-    <strong>React Native:</strong>
+    <strong style="color: aqua">React Native:</strong>
     <span>
       Lately I have been working with react and I find it an incredible technology!
     </span>
   </li>
 
   <li style="margin-bottom: 10px">
-    <strong>Next:</strong>
+    <strong style="color: aqua">Next:</strong>
     <span>
       For me the best react framework at the moment.
     </span>
   </li>
 
   <li style="margin-bottom: 10px">
-    <strong>Three.js:</strong>
+    <strong style="color: aqua">Three.js:</strong>
     <span>
       I love to integrate 3D models and animations on the web with React and Three.js.
     </span>
@@ -62,34 +62,34 @@
 
 ---
 
-<h5 align="center" style="font-size: 13px; font-weight: bold; padding: 10px">
+<h5 align="center" style="padding: 10px; color: gold; font-weight: bold">
   I am currently working
 </h5>
 
 <ul>
   <li style="margin-bottom: 10px">
-    <strong>My website "JoshDev | Space":</strong>
+    <strong style="color: gold">My website "JoshDev | Space":</strong>
     <span>
       I am currently improving my website and integrating new features.
     </span>
   </li>
 
   <li style="margin-bottom: 20px">
-    <strong>Tigrenator</strong>
+    <strong style="color: gold">Tigrenator</strong>
   </li>
 </ul>
 
 ---
 
-<p align="center" style="font-size: 13px; font-weight: bold; padding: 10px">
+<h5 align="center" style="padding: 10px; color: tomato; font-weight: bold">
   I am looking for
-</p>
+</h5>
 
 <div style="justify-content: center">
 
 <ul>
   <li style="margin-bottom: 10px">
-    <strong>
+    <strong style="color: tomato">
       A junior developer opportunity at golang:
     </strong>
     <span>
