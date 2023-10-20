@@ -68,14 +68,14 @@
 
 <ul>
   <li style="margin-bottom: 20px">
-    <strong style="color: gold">Imagine Apps</strong>
+    <strong style="color: gold">Imagine Apps:</strong>
     <span>
       SSr. Mobile | Fullstack developer.
     </span>
   </li>
 
   <li style="margin-bottom: 20px">
-    <strong style="color: gold">Tigrenator</strong>
+    <strong style="color: gold">Tigrenator:</strong>
     <span>
       Sr. Fullstack developer.
     </span>
