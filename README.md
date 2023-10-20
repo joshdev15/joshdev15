@@ -67,15 +67,25 @@
 </h5>
 
 <ul>
-  <li style="margin-bottom: 10px">
-    <strong style="color: gold">My website "JoshDev | Space":</strong>
+  <li style="margin-bottom: 20px">
+    <strong style="color: gold">Imagine Apps</strong>
     <span>
-      I am currently improving my website and integrating new features.
+      SSr. Mobile | Fullstack developer.
     </span>
   </li>
 
   <li style="margin-bottom: 20px">
     <strong style="color: gold">Tigrenator</strong>
+    <span>
+      Sr. Fullstack developer.
+    </span>
+  </li>
+  
+  <li style="margin-bottom: 10px">
+    <strong style="color: gold">My website "JoshDev | Space":</strong>
+    <span>
+      I am currently improving my website and integrating new features.
+    </span>
   </li>
 </ul>
 
