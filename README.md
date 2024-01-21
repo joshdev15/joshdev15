@@ -44,68 +44,19 @@
       Lately I have been working with react and I find it an incredible technology!
     </span>
   </li>
-
-  <li style="margin-bottom: 10px">
-    <strong style="color: aqua">Next:</strong>
-    <span>
-      For me the best react framework at the moment.
-    </span>
-  </li>
-
-  <li style="margin-bottom: 10px">
-    <strong style="color: aqua">Three.js:</strong>
-    <span>
-      I love to integrate 3D models and animations on the web with React and Three.js.
-    </span>
-  </li>  
 </ul>
 
 ---
 
 <h5 align="center" style="padding: 10px; color: gold; font-weight: bold">
-  I am currently working
+  I am currently learning
 </h5>
 
 <ul>
-  <li style="margin-bottom: 20px">
-    <strong style="color: gold">Imagine Apps:</strong>
-    <span>
-      SSr. Mobile | Fullstack developer.
-    </span>
-  </li>
-
-  <li style="margin-bottom: 20px">
-    <strong style="color: gold">Tigrenator:</strong>
-    <span>
-      Sr. Fullstack developer.
-    </span>
-  </li>
-  
   <li style="margin-bottom: 10px">
-    <strong style="color: gold">My website "JoshDev | Space":</strong>
+    <strong style="color: gold">Dart & Flutter</strong>
     <span>
-      I am currently improving my website and integrating new features.
+      After a few years of working with JavaScript, React and React Native, I have decided to start learning Dart and Flutter. To improve my skills in mobile applications.
     </span>
   </li>
 </ul>
-
----
-
-<h5 align="center" style="padding: 10px; color: tomato; font-weight: bold">
-  I am looking for
-</h5>
-
-<div style="justify-content: center">
-
-<ul>
-  <li style="margin-bottom: 10px">
-    <strong style="color: tomato">
-      A junior developer opportunity at golang:
-    </strong>
-    <span>
-      Looking to improve in this language, improve my logic and understanding of cloud systems and other technology that can be developed with this spectacular language.
-    </span>
-  </li>
-</ul>
-
-</div>
