@@ -34,7 +34,7 @@
   <li style="margin-bottom: 10px">
     <strong style="color: aqua">Go:</strong>
     <span>
-      Although I am not very proficient in the backend, Go is a spectacular language that I would like to learn more about.
+      My favorite backend language, I would like to become a master in this language
     </span>
   </li>
 
