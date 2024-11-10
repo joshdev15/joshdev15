@@ -23,24 +23,30 @@
 ```js
 /* JavaScript & TypeScript */
 
-let mainLanguage = `
-    The language I grew up with as a developer,
-    Multi-Purpose is everywhere in today's technology landscape.
-`
+(() => {
+    let mainLanguage = `
+        The language I grew up with as a developer,
+        Multi-Purpose is everywhere in today's technology landscape.
+    `
+    console.log(mainLanguage)
+})()
 ```
 
 ```go
 // Golang
 
 func main () {
-    backendFav := "My favorite backend language, I would like to become a master in this language"
+    backendFav := "My favorite backend language,"
+    becomeAMaster := "I would like to become a master in this language"
+    superpowers := fmt.Sprintf("%s %s", backendFav, becomeAMaster)
+    fmt.Println(superpowers)
 }
 ```
 
 ```jsx
 // React Native - React
 
-const App = () => (
+const MobileApps = () => (
   <View>
     <Text>I have built applications with this technology</Text>
     <Text>I find it very good for making fast applications.</Text>
@@ -60,9 +66,9 @@ const App = () => (
 @Composable
 fun NewWayOfMakeAndroid () {
     Column {
-        Text(
-            text = "Exploring Kotlin and Jetpack Compose, fascinated by the concise syntax and declarativeness of this new way of developing Android apps."
-        )
+        Text("Exploring Kotlin and Jetpack Compose,")
+        Text("fascinated by the concise syntax and declarativeness of this")
+        Text("new way of developing Android apps.")
     }
 }
 ```
@@ -72,8 +78,9 @@ fun NewWayOfMakeAndroid () {
 
 public class Main {
     public static void main(String[] args) {
-        String strongLang = "Deepening my knowledge of Java, a language that allows me to create robust and scalable applications";
-        System.out.println(strongLang);
+        String knowledge = "Deepening my knowledge of Java,";
+        String strongLang = " a language that allows me to create robust and scalable applications";
+        System.out.println(knowledge + strongLang);
     }
 }
 ```
