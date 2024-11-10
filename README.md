@@ -2,7 +2,7 @@
     Software Developer
 </h2>
 
-<img src="./assets/banner.svg" width="100%">
+<img src="./assets/banner.svg" width="100%" style="margin-top: 10px; margin-bottom: -20px">
 
 <h5 align="center" style="margin-bottom: 10px">
     Check out my website, see my LinkedIn profile or send me an email.
