@@ -1,16 +1,8 @@
 <h2 align="center" style="font-weight: bold; margin-bottom: 0px; text-decoration: none; font-size: 25px">
-    I'm Joshua
+    Software Developer
 </h2>
 
-<h6 align="center" style="font-size: 11px; font-weight: bold; font-size: 10px">
-    Software Developer
-</h6>
-
 <img src="./assets/banner.svg" width="100%">
-
-<h6 align="center" style="margin-bottom: 10px">
-    Always improving my skills
-</h6>
 
 <h5 align="center" style="margin-bottom: 10px">
     Check out my website, see my LinkedIn profile or send me an email.
