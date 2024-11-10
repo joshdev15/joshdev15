@@ -20,19 +20,33 @@
     Technologies that i love
 </h5>
 
-### JavaScript | TypeScript
+```js
+/* JavaScript & TypeScript */
 
-_The language I grew up with as a developer, Multi-Purpose is everywhere in
-today's technology landscape._
+let mainLanguage = `
+    The language I grew up with as a developer,
+    Multi-Purpose is everywhere in today's technology landscape.
+`
+```
 
-### Go
+```go
+// Golang
 
-_My favorite backend language, I would like to become a master in this language_
+func main () {
+    backendFav := "My favorite backend language, I would like to become a master in this language"
+}
+```
 
-### React Native
+```jsx
+// React Native - React
 
-_I have built applications with this technology and I find it very good for
-making fast applications._
+const App = () => (
+  <View>
+    <Text>I have built applications with this technology</Text>
+    <Text>I find it very good for making fast applications.</Text>
+  </View>
+)
+```
 
 ---
 
@@ -40,12 +54,26 @@ making fast applications._
   Web technologies I like
 </h5>
 
-### Kotlin & Jetpack Compose
+```kotlin
+// Kotlin & Jetpack Compose
 
-_Exploring Kotlin and Jetpack Compose, fascinated by the concise syntax and
-declarativeness of this new way of developing Android apps._
+@Composable
+fun NewWayOfMakeAndroid () {
+    Column {
+        Text(
+            text = "Exploring Kotlin and Jetpack Compose, fascinated by the concise syntax and declarativeness of this new way of developing Android apps."
+        )
+    }
+}
+```
 
-### Java
+```java
+// Java
 
-_Deepening my knowledge of Java, a language that allows me to create robust and
-scalable applications._
+public class Main {
+    public static void main(String[] args) {
+        String strongLang = "Deepening my knowledge of Java, a language that allows me to create robust and scalable applications";
+        System.out.println(strongLang);
+    }
+}
+```
