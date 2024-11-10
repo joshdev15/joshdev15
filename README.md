@@ -16,51 +16,28 @@
 
 ---
 
-<h5 align="center" style="padding: 10px; color: aqua; font-weight: bold">
-    Technologies that I love
-</h5>
+## Technologies that I love
 
-<ul>
-    <li style="margin-bottom: 10px">
-    <strong style="color: aqua">JavaScript | TypeScript</strong>
-    <span>
-        The language I grew up with as a developer, Multi-Purpose is everywhere in today's technology landscape.
-    </span>
-  </li>
+### JavaScript | TypeScript
 
-  <li style="margin-bottom: 10px">
-    <strong style="color: aqua">Go</strong>
-    <span>
-        My favorite backend language, I would like to become a master in this language
-    </span>
-  </li>
+The language I grew up with as a developer, Multi-Purpose is everywhere in today's technology landscape.
 
-  <li style="margin-bottom: 10px">
-    <strong style="color: aqua">React Native</strong>
-    <span>
-        I have built applications with this technology and I find it very good for making fast applications.
-    </span>
-  </li>
-</ul>
+### Go
+
+My favorite backend language, I would like to become a master in this language
+
+### React Native
+
+I have built applications with this technology and I find it very good for making fast applications.
 
 ---
 
-<h5 align="center" style="padding: 10px; color: gold; font-weight: bold">
-    I am currently...
-</h5>
+## I am currently...
 
-<ul>
-  <li style="margin-bottom: 10px">
-    <strong style="color: gold">Kotlin & Jetpack Compose</strong>
-    <span>
-        Exploring Kotlin and Jetpack Compose, fascinated by the concise syntax and declarativeness of this new way of developing Android apps.
-    </span>
-  </li>
+### Kotlin & Jetpack Compose
 
-  <li style="margin-bottom: 10px">
-    <strong style="color: gold">Java</strong>
-    <span>
-        Deepening my knowledge of Java, a language that allows me to create robust and scalable applications.
-    </span>
-  </li>
-</ul>
+Exploring Kotlin and Jetpack Compose, fascinated by the concise syntax and declarativeness of this new way of developing Android apps.
+
+### Java
+
+Deepening my knowledge of Java, a language that allows me to create robust and scalable applications.
