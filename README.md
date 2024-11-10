@@ -16,7 +16,9 @@
 
 ---
 
-## Technologies that I love
+<h5 align="center" style="padding: 10px; font-size: 20px; font-weight: bold">
+    Technologies that i love
+</h5>
 
 ### JavaScript | TypeScript
 
@@ -32,7 +34,9 @@ I have built applications with this technology and I find it very good for makin
 
 ---
 
-## I am currently...
+<h5 align="center" style="padding: 24px; font-size: 20px; font-weight: bold">
+  Web technologies I like
+</h5>
 
 ### Kotlin & Jetpack Compose
 
