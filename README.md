@@ -16,32 +16,36 @@
 
 ---
 
-<h5 align="center" style="padding: 10px; font-size: 20px; font-weight: bold">
+<h5 align="center" style="padding: 10px; font-size: 25px; font-weight: bold">
     Technologies that i love
 </h5>
 
 ### JavaScript | TypeScript
 
-The language I grew up with as a developer, Multi-Purpose is everywhere in today's technology landscape.
+_The language I grew up with as a developer, Multi-Purpose is everywhere in
+today's technology landscape._
 
 ### Go
 
-My favorite backend language, I would like to become a master in this language
+_My favorite backend language, I would like to become a master in this language_
 
 ### React Native
 
-I have built applications with this technology and I find it very good for making fast applications.
+_I have built applications with this technology and I find it very good for
+making fast applications._
 
 ---
 
-<h5 align="center" style="padding: 24px; font-size: 20px; font-weight: bold">
+<h5 align="center" style="padding: 24px; font-size: 25px; font-weight: bold">
   Web technologies I like
 </h5>
 
 ### Kotlin & Jetpack Compose
 
-Exploring Kotlin and Jetpack Compose, fascinated by the concise syntax and declarativeness of this new way of developing Android apps.
+_Exploring Kotlin and Jetpack Compose, fascinated by the concise syntax and
+declarativeness of this new way of developing Android apps._
 
 ### Java
 
-Deepening my knowledge of Java, a language that allows me to create robust and scalable applications.
+_Deepening my knowledge of Java, a language that allows me to create robust and
+scalable applications._
