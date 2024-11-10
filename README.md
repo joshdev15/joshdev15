@@ -57,7 +57,7 @@ const MobileApps = () => (
 ---
 
 <h5 align="center" style="padding: 24px; font-size: 25px; font-weight: bold">
-  Web technologies I like
+    I am currently...
 </h5>
 
 ```kotlin
@@ -78,8 +78,8 @@ fun NewWayOfMakeAndroid () {
 
 public class Main {
     public static void main(String[] args) {
-        String knowledge = "Deepening my knowledge of Java,";
-        String strongLang = " a language that allows me to create robust and scalable applications";
+        String knowledge = "Deepening my knowledge of Java, a language that allows me to ";
+        String strongLang = "create robust and scalable applications";
         System.out.println(knowledge + strongLang);
     }
 }
