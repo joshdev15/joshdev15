@@ -16,50 +16,6 @@
 
 ---
 
-<h5 align="center" style="padding: 10px; font-size: 25px; font-weight: bold">
-    Technologies that i love
-</h5>
-
-```js
-/* JavaScript & TypeScript */
-
-(() => {
-    let mainLanguage = `
-        The language I grew up with as a developer,
-        Multi-Purpose is everywhere in today's technology landscape.
-    `
-    console.log(mainLanguage)
-})()
-```
-
-```go
-// Golang
-
-func main () {
-    backendFav := "My favorite backend language,"
-    becomeAMaster := "I would like to become a master in this language"
-    superpowers := fmt.Sprintf("%s %s", backendFav, becomeAMaster)
-    fmt.Println(superpowers)
-}
-```
-
-```jsx
-// React Native - React
-
-const MobileApps = () => (
-  <View>
-    <Text>I have built applications with this technology</Text>
-    <Text>I find it very good for making fast applications.</Text>
-  </View>
-)
-```
-
----
-
-<h5 align="center" style="padding: 24px; font-size: 25px; font-weight: bold">
-    I am currently...
-</h5>
-
 ```kotlin
 // Kotlin & Jetpack Compose
 
@@ -73,14 +29,24 @@ fun NewWayOfMakeAndroid () {
 }
 ```
 
-```java
-// Java
+```go
+// Golang
 
-public class Main {
-    public static void main(String[] args) {
-        String knowledge = "Deepening my knowledge of Java, a language that allows me to ";
-        String strongLang = "create robust and scalable applications";
-        System.out.println(knowledge + strongLang);
-    }
+func main () {
+    backendFav := "My favorite backend language,"
+    becomeAMaster := "I would like to become a master in this language"
+    superpowers := fmt.Sprintf("%s %s", backendFav, becomeAMaster)
+    fmt.Println(superpowers)
 }
+```
+
+```js
+/* JavaScript & TypeScript */
+(() => {
+    let mainLanguage = `
+        The language I grew up with as a developer,
+        Multi-Purpose is everywhere in today's technology landscape.
+    `
+    console.log(mainLanguage)
+})()
 ```
