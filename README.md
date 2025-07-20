@@ -20,7 +20,7 @@
 // Kotlin & Jetpack Compose
 
 @Composable
-fun NewWayOfMakeAndroid () {
+fun NewWayToMakeAndroid () {
     Column {
         Text("Exploring Kotlin and Jetpack Compose,")
         Text("fascinated by the concise syntax and declarativeness of this")
